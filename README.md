@@ -1,7 +1,5 @@
 # Power-Bi-Capstone-Project
-
 # Project Title - Bank Loan Performance Analysis
-
 This is my Power Bi capstone project. This is about Bank loan performance analysis. I used work with these features
 1. Data Cleaning
    (Handling Missing values and Duplicates, Dealing with inconsistences)
